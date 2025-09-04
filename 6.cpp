@@ -22,4 +22,8 @@ int main() {
 	return 0;
 }
 
+ HEAD
 // Change from new-feature branch
+
+// Change from hotfix branch
+ hotfix
