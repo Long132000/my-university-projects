@@ -10,3 +10,4 @@ __pycache__/ # для Python
 
 # Но НЕ игнорировать важный файл error.log (используя инверсию)
 !important.error.log
+mintty.exe.stackdump
